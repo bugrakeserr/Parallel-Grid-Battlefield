@@ -37,6 +37,10 @@ ENV/
 # Project specific - All text files (inputs/outputs)
 *.txt
 
+# Project specific - Folders
+true_examples/
+report_template.tex
+
 # Jupyter Notebook
 .ipynb_checkpoints
 

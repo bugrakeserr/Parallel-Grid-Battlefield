@@ -239,8 +239,7 @@ This project is part of coursework for Boğaziçi University CMPE300.
 ## 🎓 Course Information
 
 **Course**: CMPE300 - Analysis of Algorithms  
-**Semester**: Fall 2024-2025  
-**Project**: Project 2 - Parallel Grid Simulation
+**Project**: Parallel Grid Simulation
 
 ---
 
